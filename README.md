@@ -1,3 +1,3 @@
 # Scripts-work
-- auto.sh
-- collect-mac.sh
+- auto.sh         - configures iDRAC settings
+- collect-mac.sh  - collect MAC addresses
